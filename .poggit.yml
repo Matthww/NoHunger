@@ -1,7 +1,7 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Matthww/HungerDisabler
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Matthww/NoHunger
 branches:
 - master
 projects:
-  HungerDisabler:
+  NoHunger:
     path: ""
 ...
