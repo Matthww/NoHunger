@@ -1,12 +1,12 @@
 <?php
 
-namespace Matthww\HungerDisabler;
+namespace Matthww\NoHunger;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerExhaustEvent;
 use pocketmine\plugin\PluginBase;
 
-class HungerDisabler extends PluginBase implements Listener {
+class NoHunger extends PluginBase implements Listener {
 
     public function onEnable() {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
