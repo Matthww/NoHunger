@@ -1,6 +1,6 @@
 name: NoHunger
-version: 1.0.2
+version: 1.0.3
 author: Matthww
-api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+api: [3.0.0]
 description: Disable hunger!
 main: Matthww\NoHunger\NoHunger
